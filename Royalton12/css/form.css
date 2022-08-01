@@ -1,0 +1,48 @@
+
+label{
+    display: inline;
+}
+label.form-label{
+    display: inline;
+    
+}
+
+div.form{
+ 
+    width: 25%;
+    position: relative;
+    left: 10%;
+    padding:20px;
+    text-align: left;
+}
+input{
+    padding-left: 40px;
+    height: 25px;
+    margin-bottom: 20px;
+    
+}
+
+select{
+
+   
+    height: 25px;
+    margin-bottom: 20px;
+    
+}
+
+div.column-1{
+
+    float: left;
+    width: 25%;
+    padding: 25px;
+
+
+}
+
+div.column-2{
+   
+    float: right;
+    width: 25%;
+    padding: 25px;
+
+}
